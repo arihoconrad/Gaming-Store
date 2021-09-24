@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(184, 197, 197);
+}
+.header{
+    display:flex;
+}
+.header ul{
+    display:flex;
+    justify-content:space-evenly;
+} 
+.header li{
+    list-style-type:none;
+}
